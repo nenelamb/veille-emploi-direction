@@ -1,0 +1,8 @@
+[project]
+name = "veille-emploi-direction"
+version = "1.0.0"
+description = "Veille quotidienne des offres de direction Lyon/Annecy pour Nelson"
+requires-python = ">=3.12"
+dependencies = [
+    "mistralai-workflows>=3.10",
+]
